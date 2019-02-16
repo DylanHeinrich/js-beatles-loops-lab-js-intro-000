@@ -11,8 +11,11 @@ function johnLennonFacts(array) {
   var i = 0
   while(i < array.length) {
     array[i] = array[i] + '!!!'
-    console.log(array[i])
     i++
   }
   return array
+}
+
+function iLoveTheBeatles(num) {
+  var array = []
 }
