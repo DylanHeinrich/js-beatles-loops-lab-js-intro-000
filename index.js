@@ -14,4 +14,5 @@ function johnLennonFacts(array) {
     console.log(array[i])
     i++
   }
+  return array
 }
